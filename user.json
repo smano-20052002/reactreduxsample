@@ -1,0 +1,285 @@
+{
+    "accounts":[
+
+        {
+            "id": 1,
+            "account": "Acme Corp",
+            "engagementManager": "John Doe",
+            "clientPatner": "Jane Smith",
+            "business": "Red",
+            "onboarding": "Green",
+            "workflow": "Green",
+            "delivery": "Amber",
+            "engineering": "Amber",
+            "actionitems": "Review project status"
+        },
+        {
+            "id": 2,
+            "account": "Globex Inc",
+            "engagementManager": "Michael Brown",
+            "clientPatner": "Emily White",
+            "business": "Green",
+            "onboarding": "Amber",
+            "workflow": "Red",
+            "delivery": "Amber",
+            "engineering": "Red",
+            "actionitems": "Set up kickoff meeting"
+        },
+        {
+            "id": 3,
+            "account": "Umbrella Corp",
+            "engagementManager": "Alice Johnson",
+            "clientPatner": "Bob Green",
+            "business": "Green",
+            "onboarding": "Amber",
+            "workflow": "Amber",
+            "delivery": "Amber",
+            "engineering": "Amber",
+            "actionitems": "Finalize engineering plan"
+        },
+        {
+            "id": 4,
+            "account": "Wayne Enterprises",
+            "engagementManager": "Bruce Wayne",
+            "clientPatner": "Lucius Fox",
+            "business": "Green",
+            "onboarding": "Red",
+            "workflow": "Green",
+            "delivery": "Amber",
+            "engineering": "Green",
+            "actionitems": "Approve budget"
+        },
+        {
+            "id": 5,
+            "account": "Stark Industries",
+            "engagementManager": "Tony Stark",
+            "clientPatner": "Pepper Potts",
+            "business": "Amber",
+            "onboarding": "Green",
+            "workflow": "Red",
+            "delivery": "Green",
+            "engineering": "Amber",
+            "actionitems": "Review new tech"
+        },
+        {
+            "id": 6,
+            "account": "Initech",
+            "engagementManager": "Bill Lumbergh",
+            "clientPatner": "Peter Gibbons",
+            "business": "Red",
+            "onboarding": "Amber",
+            "workflow": "Green",
+            "delivery": "Red",
+            "engineering": "Amber",
+            "actionitems": "Complete TPS reports"
+        },
+        {
+            "id": 7,
+            "account": "Wonka Industries",
+            "engagementManager": "Willy Wonka",
+            "clientPatner": "Charlie Bucket",
+            "business": "Green",
+            "onboarding": "Green",
+            "workflow": "Amber",
+            "delivery": "Red",
+            "engineering": "Green",
+            "actionitems": "Inspect chocolate factory"
+        },
+        {
+            "id": 8,
+            "account": "Dunder Mifflin",
+            "engagementManager": "Michael Scott",
+            "clientPatner": "Jim Halpert",
+            "business": "Amber",
+            "onboarding": "Red",
+            "workflow": "Green",
+            "delivery": "Amber",
+            "engineering": "Amber",
+            "actionitems": "Plan sales meeting"
+        },
+        {
+            "id": 9,
+            "account": "Hooli",
+            "engagementManager": "Gavin Belson",
+            "clientPatner": "Richard Hendricks",
+            "business": "Green",
+            "onboarding": "Green",
+            "workflow": "Red",
+            "delivery": "Amber",
+            "engineering": "Red",
+            "actionitems": "Develop new platform"
+        },
+        {
+            "id": 10,
+            "account": "Pied Piper",
+            "engagementManager": "Erlich Bachman",
+            "clientPatner": "Dinesh Chugtai",
+            "business": "Amber",
+            "onboarding": "Green",
+            "workflow": "Amber",
+            "delivery": "Green",
+            "engineering": "Amber",
+            "actionitems": "Optimize compression algorithm"
+        },
+        {
+            "id": 11,
+            "account": "Prestige Worldwide",
+            "engagementManager": "Brennan Huff",
+            "clientPatner": "Dale Doback",
+            "business": "Green",
+            "onboarding": "Amber",
+            "workflow": "Amber",
+            "delivery": "Red",
+            "engineering": "Green",
+            "actionitems": "Finalize music video"
+        },
+        {
+            "id": 12,
+            "account": "Strickland Propane",
+            "engagementManager": "Hank Hill",
+            "clientPatner": "Dale Gribble",
+            "business": "Amber",
+            "onboarding": "Green",
+            "workflow": "Red",
+            "delivery": "Amber",
+            "engineering": "Red",
+            "actionitems": "Order new propane tanks"
+        },
+        {
+            "id": 13,
+            "account": "Bluth Company",
+            "engagementManager": "Michael Bluth",
+            "clientPatner": "Gob Bluth",
+            "business": "Red",
+            "onboarding": "Amber",
+            "workflow": "Green",
+            "delivery": "Green",
+            "engineering": "Amber",
+            "actionitems": "Review model home"
+        },
+        {
+            "id": 14,
+            "account": "Cyberdyne Systems",
+            "engagementManager": "Miles Dyson",
+            "clientPatner": "John Connor",
+            "business": "Green",
+            "onboarding": "Red",
+            "workflow": "Amber",
+            "delivery": "Green",
+            "engineering": "Amber",
+            "actionitems": "Assess Skynet project"
+        },
+        {
+            "id": 15,
+            "account": "Duff Beer",
+            "engagementManager": "Homer Simpson",
+            "clientPatner": "Carl Carlson",
+            "business": "Amber",
+            "onboarding": "Green",
+            "workflow": "Red",
+            "delivery": "Amber",
+            "engineering": "Red",
+            "actionitems": "Check brewery status"
+        },
+        {
+            "id": 16,
+            "account": "Monster Inc",
+            "engagementManager": "James P. Sullivan",
+            "clientPatner": "Mike Wazowski",
+            "business": "Green",
+            "onboarding": "Amber",
+            "workflow": "Green",
+            "delivery": "Red",
+            "engineering": "Green",
+            "actionitems": "Inspect laugh floor"
+        },
+        {
+            "id": 17,
+            "account": "Oscorp",
+            "engagementManager": "Norman Osborn",
+            "clientPatner": "Harry Osborn",
+            "business": "Amber",
+            "onboarding": "Green",
+            "workflow": "Red",
+            "delivery": "Amber",
+            "engineering": "Red",
+            "actionitems": "Review new project"
+        },
+        {
+            "id": 18,
+            "account": "Daily Planet",
+            "engagementManager": "Perry White",
+            "clientPatner": "Lois Lane",
+            "business": "Green",
+            "onboarding": "Green",
+            "workflow": "Amber",
+            "delivery": "Red",
+            "engineering": "Green",
+            "actionitems": "Plan upcoming edition"
+        },
+        {
+            "id": 19,
+            "account": "Central Perk",
+            "engagementManager": "Gunther",
+            "clientPatner": "Rachel Green",
+            "business": "Amber",
+            "onboarding": "Green",
+            "workflow": "Amber",
+            "delivery": "Green",
+            "engineering": "Amber",
+            "actionitems": "Organize coffee supplies"
+        },
+        {
+            "id": 20,
+            "account": "Greendale Community College",
+            "engagementManager": "Dean Pelton",
+            "clientPatner": "Jeff Winger",
+            "business": "Green",
+            "onboarding": "Amber",
+            "workflow": "Red",
+            "delivery": "Amber",
+            "engineering": "Red",
+            "actionitems": "Plan study group meeting"
+        },
+        {
+            "id": 21,
+            "account": "Wernham Hogg",
+            "engagementManager": "David Brent",
+            "clientPatner": "Tim Canterbury",
+            "business": "Red",
+            "onboarding": "Amber",
+            "workflow": "Green",
+            "delivery": "Green",
+            "engineering": "Amber",
+            "actionitems": "Complete project proposal"
+        },
+        {
+            "id": 22,
+            "account": "Paper Street Soap Company",
+            "engagementManager": "Tyler Durden",
+            "clientPatner": "Narrator",
+            "business": "Amber",
+            "onboarding": "Green",
+            "workflow": "Red",
+            "delivery": "Amber",
+            "engineering": "Red",
+            "actionitems": "Plan new marketing strategy"
+        },
+        {
+            "id": 23,
+            "account": "Oceanic Airlines",
+            "engagementManager": "Jack Shephard",
+            "clientPatner": "Kate Austen",
+            "business": "Green",
+            "onboarding": "Green",
+            "workflow": "Amber",
+            "delivery": "Red",
+            "engineering": "Green",
+            "actionitems": "Coordinate flight schedule"
+        }
+    
+    ]
+}
+   
+
+
